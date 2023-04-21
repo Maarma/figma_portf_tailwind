@@ -1,5 +1,5 @@
 # figma_portf_tailwind
 portfolio tailwind page
 
-Do not forfet to start tailwindcss
+Do not forfet to start tailwindcss /n
 npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
